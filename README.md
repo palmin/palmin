@@ -6,4 +6,4 @@ Check out
 * My Git client [Working Copy](https://workingcopy.app/) and
 * [Secure ShellFish](https://secureshellfish.app/) my SSH client
 
-You can reach me as [@palmin](https://twitter.com/palmin) on Twitter.
+You can reach me as [@palmin](https://mastodon.social/@palmin) on Mastodon.
