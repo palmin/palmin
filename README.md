@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Anders and I make developer tools for iOS. 
+I'm Anders and I make developer tools for iOS & Mac. 
 
 Check out 
 * My Git client [Working Copy](https://workingcopy.app/),
