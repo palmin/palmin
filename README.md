@@ -1,3 +1,5 @@
+<img align="right" src="https://github.com/user-attachments/assets/3267981d-db08-4df9-8af1-76271886b03a" alt="photo of Anders" />
+
 ### Hi there 👋
 
 I'm Anders and I make developer tools for iOS & Mac. 
