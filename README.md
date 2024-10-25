@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/user-attachments/assets/3267981d-db08-4df9-8af1-76271886b03a" alt="photo of Anders" />
+<img align="right" src="https://github.com/user-attachments/assets/1901d202-253e-461c-8ca2-40e4c33c2142" alt="photo of Anders" />
 
 ### Hi there 👋
 
