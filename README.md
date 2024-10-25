@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="https://github.com/user-attachments/assets/53e8f499-480b-4f18-a415-ffb559cdcab1" alt="Kelly the cat turning her head" />
+<img align="right" src="https://github.com/user-attachments/assets/33c70571-2ff4-4e0d-89f7-93bbdd698947" alt="Kelly the cat turning her head" />
 
 I'm Anders and I make developer tools for iOS & Mac. 
 
