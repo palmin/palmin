@@ -11,4 +11,4 @@ Check out
 * [S3 Files](https://s3files.app/) puts S3 compatible storage in Finder + Files app 
 * [Source Files](https://sourcefiles.app/) for API-driven access to repositories on GitHub, GitLab & BitBucket.
 
-You can reach me as [@borum.dev](https://bsky.app/profile/borum.dev) on Bluesky.
+You can reach me as [@palmin](https://mastodon.social/@palmin) on Mastodon.
