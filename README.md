@@ -9,6 +9,6 @@ Check out
 * the SSH client [Secure ShellFish](https://secureshellfish.app/),
 * [S3 Files](https://s3files.app/) putting S3 compatible storage in Finder + Files app 
 * [FTP Files](https://ftpfiles.app/) for FTP & SFTP servers in the Finder and Files app,
-* [Source Files](https://sourcefiles.app/) for API-driven access to repositories on GitHub, GitLab & BitBucket.
+* [Source Files](https://sourcefiles.app/) for API-driven access to repositories on GitHub, GitLab, Gitea & BitBucket.
 
 You can reach me as [@palmin](https://mastodon.social/@palmin) on Mastodon.
